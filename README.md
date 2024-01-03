@@ -17,8 +17,5 @@ Greetings from the coding cosmos! Currently navigating the constellations of web
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=florianrumigny&icon=2&color=12)](https://visitcount.itsvg.in)
