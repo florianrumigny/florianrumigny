@@ -1,5 +1,10 @@
 # 💫About Me :
-Greetings from the coding cosmos! Currently navigating the constellations of web development at O'clock school, I'm delving into the languages of JavaScript, Node.js, and the galaxies of Postgres databases. On the quest for opportunities to deploy my skills, I bring a decade of expertise in SEO, Email Marketing, and the intricate orbits of Facebook and Instagram Ads. My journey also includes crafting digital universes through projects like WordPress and Shopify stores. Let's embark on this cosmic coding voyage together, where every line of code tells a story of innovation and passion among the stars.
+
+Hi there, I'm Florian.
+
+I'm from Paris and currently embarking on a journey to learn web development. I build projects using JavaScript, Node.js, and PostgreSQL.
+
+If you have any questions or interests, feel free to contact me :)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/florian-rumigny) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Murakamiae) 
