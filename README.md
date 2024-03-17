@@ -2,7 +2,7 @@
 
 Hi there, I'm Florian.
 
-I'm from Paris and currently embarking on a journey to learn web development. I build projects using JavaScript, Node.js, and PostgreSQL.
+I'm from Paris and currently embarking on a journey to learn web development. I build projects using JavaScript, React, Node.js, and PostgreSQL.
 
 If you have any questions or interests, feel free to contact me :)
 
