@@ -4,7 +4,7 @@ Hi there, I'm Florian.
 
 I'm from Paris and currently embarking on a journey to learn web development. I build projects using JavaScript, React, Node.js, and PostgreSQL.
 
-If you have any questions or interests, feel free to contact me :)
+If you have any questions or interests, feel free to contact me.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/florian-rumigny) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Murakamiae) 
